@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./css/app.css -o ./css/build.css --watch"
+  }
+}
