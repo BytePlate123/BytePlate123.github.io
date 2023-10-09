@@ -12,6 +12,6 @@
 
 @layer components {
   .c-container {
-    @apply px-4 sm:px-8 md:px-12 lg:px-16 xl:px-20 2xl:px-24;
+    @apply px-6 sm:px-8 md:px-12 lg:px-16 xl:px-20 2xl:px-24;
   }
 }
