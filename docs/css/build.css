@@ -1515,6 +1515,10 @@ input:checked + .toggle-bg {
   align-items: baseline;
 }
 
+.justify-normal {
+  justify-content: normal;
+}
+
 .justify-start {
   justify-content: flex-start;
 }
